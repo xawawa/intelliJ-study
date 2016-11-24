@@ -1,2 +1,23 @@
 # intelliJ-study
 IntelliJ IDEA勉強用
+
+## 目次
+1. IntelliJとは
+  1. Eclipseとの違い
+  1. IntelliJだからできること
+1. Gitとは
+  1. ローカルリポジトリとリモートリポジトリ
+  1. ブランチモデル
+  1. マージ方法
+  1. Subversionとの違い、嬉しいこと
+1. GitBucketとは
+  1. GitHubのクローン
+1. GitBucketにブランクrepositoryを作ろう
+1. GitBucketから作成したブランクrepositoryをcloneしよう
+1. ブランクrepositoryにJavaプロジェクトを作ろう
+1. メインを１つ書いてみよう
+1. テストを１つ書いてみよう
+1. カバレッジを取得しよう
+1. ローカルリポジトリにcommitしよう
+1. リモートリポジトリにpushしよう
+1. Jenkinsに自分が作成したrepositoryのジョブを作成してみよう
